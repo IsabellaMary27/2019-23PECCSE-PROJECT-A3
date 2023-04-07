@@ -1,0 +1,38 @@
+STEPS TO EXECUTE THE PROJECT:
+
+STEP 1 : Download ANOCONDA NAVIGATOR (.exe file) from https://www.anaconda.com/products/distribution.
+
+STEP 2 : Open and run the .exe installer.
+
+STEP 3 : Open the Anaconda Navigator and Launch the Jupyter Notebook Lab.
+
+STEP 4 : Extract the code.zip file.
+
+STEP 5 : Open the extracted zip file in Jupyter Lab from the location where code.zip file is extracted.
+
+STEP 6 : Run the Module 1 - Data Preprocessing to transform the data into a format that is more easily and effectively processed in Machine Learning.
+
+STEP 7 : Run the Module 2 - Data Visualization to display the information and to communicate complex data relationship and data driven insights in a way that is easy to understand.
+
+STEP 8 : Run the Module 3 - Logistic Regression Algorithm to find the Evaluation Metrics.
+
+STEP 9 : Run the Module 4 - Random Forest Algorithm to find the Evaluation Metrics.
+
+STEP 10 : Run the Module 5 - XG Boost Algorithm to find the Evaluation Metrics.
+
+STEP 11 : Run the Module 6 - Voting Classifier Algorithm to find the Evaluation Metrics.
+
+STEP 12 : From the modules 3,4,5,6, the ML model with best accuracy is found and is connected to the back end for Deployment(i.e.,XG Boost)
+
+STEP 13 : Open the Deploy folder >> flask_deploy.ipynb
+
+STEP 14 : Run the code in flask_deploy.ipynb folder
+
+STEP 15 : Click the link that is displayed below to open the user interface of the project.
+
+STEP 16 : Enter the attack inputs in the description box to classify the attacks and click the Predict button.
+
+STEP 17 : The name of the attack predicted (Montreal CryptoXXX or Montreal CryptoLocker or Padua CryptoWall or Princeton Cerber or Princeton Locky or White) is displayed.
+
+STEP 17 : With giving the different ranges of input, the attacks are predicted and the above two steps are executed to predict the name of the attacks.
+
