@@ -2,11 +2,11 @@
 
 **TEAM MEMBERS:**
 
-HARSHAVARTHINI R - 211419104097
+HARSHAVARTHINI R 211419104097
 
-ISABELLA MARY J - 211419104106
+ISABELLA MARY J  211419104106
 
-MUTHUPRIYA M  - 211419104172
+MUTHUPRIYA M     211419104172
 
 **PROJECT DESCRIPTION:**
 
@@ -15,6 +15,7 @@ currencies that use blockchain technology to record transactions. Cryptocurrency
 ransomware attacks have already resulted in significant economic losses and societal harm across different sectors, ranging from local governments to health care. Most 
 modern ransomware use Bitcoin for payments. However, although Bitcoin transactions are permanently recorded and publicly available, current approaches for detecting 
 ransomware depend only on a couple of heuristics and/or tedious information gathering steps (e.g., running ransomware to collect ransomware related Bitcoin addresses).
+The proposed work undergoes four machine learning algorithms namely Logistic Regression, Random Forest Classifier, XG Boost Classifier and Voting Classifier among which XG Boost Classifier gives the maximum accuracy.
 
 **SYSTEM ARCHITECTURE:**
 
